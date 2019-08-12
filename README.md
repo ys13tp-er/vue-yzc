@@ -27,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# 项目实验
+
+[入口](https://ys13tp-er.github.io/vue-yzc/dist/#/home)
